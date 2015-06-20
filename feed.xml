@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>protokol media</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
+    <description></description>
     <link>https://protokolmedia.github.io/</link>
     <atom:link href="https://protokolmedia.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Jun 2015 04:48:02 +0800</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2015 04:48:02 +0800</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2015 05:03:15 +0800</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2015 05:03:15 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
